@@ -29,7 +29,7 @@ The Power BI report consists of three main sections:
   - **Total Attrition by Grouping Current Years**
 - Insights into employees' career progression and satisfaction levels
 
-![Work Satisfaction](Pictures/work satisfactions.png)
+![Work Satisfaction](Pictures/worksatisfactions.png)
 
 ### 3️⃣ Financial Analysis
 - Financial insights related to attrition:
