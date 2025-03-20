@@ -17,7 +17,7 @@ The Power BI report consists of three main sections:
   - **Current Years Grouping** (0-5, 6-10, etc.)
 - Interactive filters for **Department, Gender, and Overtime**
 
-![Overview](Overview.png)
+![Overview](Pictures/Overview.png)
 
 ### 2️⃣ Work Satisfaction
 - Analysis of employee attrition based on:
