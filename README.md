@@ -38,7 +38,7 @@ The Power BI report consists of three main sections:
   - **Total Attrition by Percent Salary Hike**
   - **Stock Option Level Impact on Attrition**
 
-![Financial Analysis](financial.png)
+![Financial Analysis](Pictures/financial.png)
 
 ## 🎯 Key Features
 - **Fully Interactive Dashboard:** Users can filter by **Overtime, Gender, and Department**.
