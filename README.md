@@ -65,5 +65,11 @@ For any questions or collaboration, feel free to reach out!
 
 ---
 
+## 🖼 Interactive DashBoard
+See the interactive Dashboard here 
+https://app.powerbi.com/groups/me/reports/adc6fe80-c10e-47fe-a9a6-c7f9ab2084d3/e1c3462ea29c0a1db78d?experience=power-bi
+
+---
+
 🔗 **Follow for more Power BI projects!** 🚀
 
